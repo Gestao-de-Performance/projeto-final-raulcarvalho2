@@ -1,0 +1,38 @@
+/*-------Imports Css-------*/
+
+@import url(./css/cabecalho.css);
+@import url(./css/introducao.css);
+@import url(./css/skills.css);
+@import url(./css/projetos.css);
+@import url(./css/frase-efeito.css);
+@import url(./css/formacao.css);
+@import url(./css/rodape.css);
+@import url(./css/topbutton.css);
+/*-------Fim imports css--------*/
+
+
+
+
+
+
+/*-------Formatação-------*/
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.sub-titulo {
+    font-size: 3.8rem;
+    color: #C2C2C2;
+    text-align: center;
+}
+
+
+/*-------Fim Formatação--------*/
